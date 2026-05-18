@@ -13,7 +13,7 @@ import {
 
 function sendTelegramAlert(chatId, total, budget) {
 
-  const token = "8533800464:AAEnuiOBjZy110Nc3PWTv_0wYgAPnnoueec"; // 🔐 replace
+  const token = YOUR_BOT_TOKEN; // 🔐 replace
 
   if (!budget || budget <= 0) return;
 

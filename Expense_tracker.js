@@ -121,7 +121,7 @@ function resetPasswordFirebase() {
 }
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDqFKpbqJjeETParRVdjDPcPABPRUJfsD0",
+  apiKey: YOUR_API_KEY,
   authDomain: "expensetrackerapp-5db0e.firebaseapp.com",
   databaseURL: "https://expensetrackerapp-5db0e-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "expensetrackerapp-5db0e"
